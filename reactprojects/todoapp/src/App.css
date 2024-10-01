@@ -1,0 +1,24 @@
+.heading{
+  font-weight: 700;
+  font-size: 45px;
+
+
+  margin: 10px;
+  margin-bottom: 20px;
+
+}
+.items{
+  text-align: left;
+}
+
+input{
+  width: 100%;
+}
+
+.atrow{
+  margin: 10px 3px;
+}
+
+.atbutton{
+  min-width: 80px;
+}
